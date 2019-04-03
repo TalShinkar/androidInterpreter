@@ -81,8 +81,8 @@ In the bottom of the page you will see the suggestions tab. If you want to get a
 ---
 ## Contributers
 
-| Ofir Alexi | Anny Firer |
-|:---:| :---:|
-| [![Ofir Alexi](https://avatars3.githubusercontent.com/u/37834992?v=4&s=200)](https://avatars3.githubusercontent.com/u/37834992?v=4&s=200) | [![Anny Firer](https://avatars2.githubusercontent.com/u/33667684?v=4&s=200)](https://avatars2.githubusercontent.com/u/33667684?v=4&s=200)  |
-| <a href="http://github.com/ofiralexi" target="_blank">`github.com/ofiralexi`</a> | <a href="http://github.com/anny234" target="_blank">`github.com/anny234`</a> |
+| Ofir Alexi | Anny Firer | Tal Shinkar |
+|:---:| :---:| :---:|
+| [![Ofir Alexi](https://avatars3.githubusercontent.com/u/37834992?v=4&s=200)](https://avatars3.githubusercontent.com/u/37834992?v=4&s=200) | [![Anny Firer](https://avatars2.githubusercontent.com/u/33667684?v=4&s=200)](https://avatars2.githubusercontent.com/u/33667684?v=4&s=200) | [![Tal Shinkar](https://avatars2.githubusercontent.com/u/6527447?v=4&s=200)](https://avatars2.githubusercontent.com/u/6527447?v=4&s=200)  |
+| <a href="http://github.com/ofiralexi" target="_blank">`github.com/ofiralexi`</a> | <a href="http://github.com/anny234" target="_blank">`github.com/anny234`</a> | <a href="http://github.com/talshinkar" target="_blank">`github.com/talshinkar`</a> |
 
